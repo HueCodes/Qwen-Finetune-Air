@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Large model adapter files (too large for git)
+adapters_maximum/
+adapters/
+
+# macOS system files
+.DS_Store
+
+# Training outputs and logs
+outputs/
+training_logs.txt

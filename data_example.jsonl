@@ -1,0 +1,10 @@
+{"input": "What is machine learning?", "output": "Machine learning is a branch of artificial intelligence that enables computers to learn from data without being explicitly programmed."}
+{"input": "Explain neural networks.", "output": "Neural networks are computing systems inspired by biological neural networks. They consist of interconnected nodes (neurons) organized in layers that process information."}
+{"input": "What is deep learning?", "output": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn hierarchical representations of data."}
+{"input": "Define overfitting.", "output": "Overfitting occurs when a model learns the training data too well, including noise, resulting in poor performance on new, unseen data."}
+{"input": "What is a transformer?", "output": "A transformer is a neural network architecture that uses self-attention mechanisms to process sequential data, revolutionizing natural language processing."}
+{"input": "Explain gradient descent.", "output": "Gradient descent is an optimization algorithm that iteratively adjusts model parameters in the direction that minimizes the loss function."}
+{"input": "What is transfer learning?", "output": "Transfer learning is a technique where a model trained on one task is adapted for a different but related task, leveraging previously learned knowledge."}
+{"input": "Define batch size.", "output": "Batch size is the number of training examples processed together in one iteration during model training."}
+{"input": "What is a learning rate?", "output": "The learning rate is a hyperparameter that controls how much to adjust model weights during training. It determines the step size in gradient descent."}
+{"input": "Explain fine-tuning.", "output": "Fine-tuning is the process of taking a pre-trained model and further training it on a specific dataset to adapt it to a particular task or domain."}
